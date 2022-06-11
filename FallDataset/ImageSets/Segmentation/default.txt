@@ -1,0 +1,13 @@
+gesture/train/image/5560
+gesture/train/image/4942
+gesture/train/image/4941
+gesture/train/image/4940
+gesture/train/image/494
+gesture/train/image/4939
+gesture/train/image/4938
+gesture/train/image/4937
+gesture/train/image/4935
+gesture/train/image/4934
+gesture/train/image/4933
+gesture/train/image/3904
+gesture/train/image/2676

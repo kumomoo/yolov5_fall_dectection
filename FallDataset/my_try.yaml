@@ -1,0 +1,8 @@
+train: E:/deeplearning/yolov5/FallDataset/train.txt
+val: E:/deeplearning/yolov5/FallDataset/val.txt
+
+#number of classes
+nc: 3
+
+#class name
+names: ['fall','sit','stand']
